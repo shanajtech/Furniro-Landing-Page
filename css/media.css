@@ -1,0 +1,244 @@
+/* // Extra large devices */
+@media (min-width: 1200px) {  }
+
+/* // Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .prodoverlay a {
+        left: 40px;
+    }
+    .prodoverlay span {
+        font-size: 12px;
+    }
+    .icon {
+        left: 75%;
+        top: 82%;
+    }
+    .positiontext {
+        top: 67%;
+    }
+    .lasttexttwo button {
+        margin-left: 0px;
+    }
+ }
+
+/* // Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .nav-link {
+        text-align: center;
+        background-color: #FFF3E3;
+    }
+    .topicons{
+        text-align: center;
+    }
+    .prodoverlay a {
+        top: 350px;
+        left: 305px;
+    }
+    .prodoverlay i {
+        padding-left: 129px;
+        padding-top: 430px;
+    }
+    .proimgesitemtext {
+        text-align: center;
+    }
+    .exploretext {
+        text-align: center;
+    }
+    .exploretext a {
+        margin-bottom: 20px;
+    }
+    .exploreitem img {
+        margin-bottom: 20px;
+    }
+    .positiontext {
+        top: 79%;
+        left: 36%;
+    }
+    .lastitem{
+        text-align: center;
+    }
+    .lastitemtext p {
+        padding-bottom: 0;
+        padding-top: 30px;
+    }
+    .lastitemtext ul{
+        padding-left: 0;
+    }
+    .lasttext p {
+        padding-bottom: 0px;
+    }
+    .copy h3 {
+        text-align: center;
+    }
+}
+
+/* // Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .nav-link {
+        text-align: center;
+        background-color: #FFF3E3;
+    }
+    .topicons{
+        text-align: center;
+    }
+    .rangetext p {
+        font-size: 18px;
+    }
+    .prodoverlay a {
+        top: 350px;
+        left: 215px;
+    }
+    .prodoverlay i {
+        padding-left: 79px;
+        padding-top: 430px;
+    }
+    .proimgesitemtext {
+        text-align: center;
+    }
+    .exploretext {
+        text-align: center;
+    }
+    .exploretext a {
+        margin-bottom: 20px;
+    }
+    .exploreitem img {
+        margin-bottom: 20px;
+    }
+    .exploretext h3 {
+        font-size: 28px;
+    }
+    .exploretext p {
+        font-size: 12px;
+    }
+    .icon {
+        top: 78%;
+        left: 47%;
+    }
+    .lastitem{
+        text-align: center;
+    }
+    .lastitemtext p {
+        padding-bottom: 0;
+        padding-top: 30px;
+    }
+    .lastitemtext ul{
+        padding-left: 0;
+    }
+    .lasttext p {
+        padding-bottom: 0px;
+    }
+    .copy h3 {
+        text-align: center;
+    }
+}
+
+/* // Extra small devices */
+@media (max-width: 575.98px) {  
+    .nav-link {
+        text-align: center;
+        background-color: #FFF3E3;
+    }
+    .topicons{
+        text-align: center;
+    }
+    .bannertext h1 {
+        font-size: 32px;
+    }
+    .bannertext p {
+        font-size: 10px;
+        padding-right: 5px;
+    }
+    .bannertext {
+        padding-left: 0px;
+    }
+    .rangetext {
+       text-align: start;
+    }
+    .rangetext p {
+        font-size: 18px;
+    }
+    .rangeitem img {
+        width: 48%;
+    }
+    .rangeitem h3 {
+     text-align: start;
+
+    }
+    .Producttext h3 {
+        text-align: start;
+    }
+    .productitem img {
+        width: 49%;
+    }
+    .prodoverlay {
+        width: 49%;
+    }
+    .proimgesitemtext h3{
+        text-align: start;
+    }
+    .proimgesitemtext h4{
+        text-align: start;
+    }
+    .proimgesitemtext p{
+        text-align: start;
+    }
+    .learnpart {
+        text-align: start;
+    }
+    .prodoverlay a {
+        top: 350px;
+        left: 215px;
+    }
+    .prodoverlay i {
+        padding-left: 79px;
+        padding-top: 430px;
+    }
+    .exploretext {
+        text-align: start;
+    }
+    .exploretext a {
+        margin-bottom: 20px;
+    }
+    .exploreitem img {
+        margin-bottom: 20px;
+        width: 49%;
+    }
+    .exploretext h3 {
+        font-size: 28px;
+    }
+    .exploretext p {
+        font-size: 12px;
+    }
+    .icon {
+        top: 77%;
+        left: 26%;
+    }
+    .lastitem{
+        text-align: start;
+    }
+    .lastitemtext p {
+        padding-bottom: 0;
+        padding-top: 30px;
+        padding-right: 560px;
+    }
+    .lastitemtext ul {
+        padding-left: 0;
+        padding-right: 565px;
+    }
+    .lasttext p {
+        padding-left: 270px;
+    }
+    .lasttext ul {
+        padding-left: 234px;
+    }.lasttexttwo p {
+        margin-left: 237px;
+    }
+    .lasttexttwo input {
+        margin-left: 155px;
+    }
+    .copy h3 {
+        /* margin-right: 565px; */
+        margin-left: 175px;
+    }
+
+}
